@@ -10,7 +10,7 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="../includes/recursos/faviivon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../includes/recursos/logicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../../Vista/custome_bootstrap/style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&display=swap" rel="stylesheet">
@@ -35,10 +35,10 @@ session_start();
             <div class="row">
 
                 <div class="col-auto text-start d-inline">
-                    <img src="../includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo sistema">
+                    <img src="../includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo sistema">
                 </div>
                 <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                    <strong class="d-block"><em> control de servicio social.</em></strong>
+                    <strong class="d-block"><em> alfabetizhe.</em></strong>
                 </h4>
             </div>
         </a>
@@ -82,7 +82,6 @@ session_start();
                                         <!-- <input type="number" required autofocus name="celular" placeholder=" Celular" class="text-center rounded-pill form-control mb-1 border "> -->
                                         <select name="grado"   autofocus class="rounded-pill text-muted form-select  text-center">
                                             <option required aria-required="true" value="" selected disabled>Grado</option>
-                                            <option value="9">9°</option>
                                             <option value="10">10°</option>
                                             <option value="11">11°</option>
                                         </select>
@@ -92,7 +91,7 @@ session_start();
                                     <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
                                         <!-- Media técnica -->
                                         <div class="input-group rounded-pill mb-2">
-                                            <span class="input-group-text bg-body border-end-0 text-muted">SENA<i class="fa-solid fa-right-long ms-3"></i></span>
+                                            <span class="input-group-text bg-body border-end-0 text-muted">MOD<i class="fa-solid fa-right-long ms-3"></i></span>
                                             <select name="nombre_tecnica" autofocus  id="nom_tecnica" class="text-center form-select  text-muted border-start-0 text-start text-uppercase" required>
                                                 <option required aria-required="true" value="Seleccionar" disabled selected>Seleccionar</option>
                                                 <option value="Desarrollo de software">Desarrollo de Software</option>

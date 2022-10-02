@@ -1,5 +1,5 @@
 Control de Servicio Social.
-
+Alfabetizhe
 
 Un proyecto guardar horas de estudiantes basado en la problemática de la perdida de horas y a los fraudes que han habido frente a este tema de servicio social en los colegios o instituciones.
 
@@ -11,6 +11,4 @@ Directivo: será el encargado de enviar las tareas y verificar que se realize bi
 
 Administrador: será el encargado de modificar datos errados de los directivos o estudiantes, también de cambiar las contraseñas de los usuarios, optimizara los datos basuras guardados en la base de datos de postulaciones o tareas nunca terminadas, será una pieza clave cuando los estudiantes terminen sus horas ya que los podrá en la tabla de egresados, también podrá retirar estudiantes que se retiren de su año académico.
 
-15/09/2022.
 
-Autor: Frank Giovany Muriel Velásquez.
