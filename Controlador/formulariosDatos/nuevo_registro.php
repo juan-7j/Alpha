@@ -47,9 +47,6 @@ session_start();
     <!-- Cuerpo de esta página -->
     <main class="card-group">
         <div class="card">
-            <!-- animaciones del grado 11° 2022 IERML. -->
-            <!-- <img class="card-img img-fluid" src="../includes//NuevasImagenes/animacion.gif" alt=""> -->
-            <!-- <img class="card-img img-fluid" src="../includes/NuevasImagenes/img-autor.jpg" alt=""> -->
             <div class="card-img-overlay">
                 <div class="d-flex justify-content-center align-items-center">
 
